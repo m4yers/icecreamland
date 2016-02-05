@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MurmurHash" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../SDK/cross-bridge-sdk/samples/05_SWC/MurmurHash.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
